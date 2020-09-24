@@ -1,0 +1,105 @@
+﻿FirstName,Section,Grade,1_01,1_02,1_03,1_04,1_05,1_06,1_07,1_08,1_09,1_10,1_11,1_12,1_13,1_14,1_15,1_16,1_17,1_18,1_19,1_20,1_21,1_22,1_23,1_24,1_25,1_26,1_27,1_28,1_29
+Student_1,6C,6,d,B,c,b,d,a,b,C,a,b,a,B,a,B,b,c,C,c,d,A,C,b,C,B,A,B,b,C,c
+Student_2,6C,6,C,B,c,b,d,B,b,C,a,c,a,c,B,B,a,c,d,B, ,A,d,a, ,a,A,B,c,b,d
+Student_3,6C,6,C,B,d,d,d,a,c,b,C,A,a,a,a,B,C,d,a,d,C,A,C,C,d,B,d,B,b,C,B
+Student_4,6C,6,b,a,c,b,a,c,A,b,a,c,a,B,a,B,a,c,C,B,C,b, , , , , , , , , 
+Student_5,6C,6,b,B,d,b,C,B,A,C,C,A,B,a,c,a,b,c,C,a,a,A,b,a,d,a,b,a,c,b,a
+Student_6,6D,6,C,B,A,d,C,B,A,C,C,d,B,B,B,c,a,B,C,d,b,A,C,C,d,a,A,B,A,C,B
+Student_7,6C,6,C,B,b,d,d,a,c,a,b,d,d,B,a,c,b,a,b,a,C,b,d,C,a,B,A,a,b,C,B
+Student_8,6A,6,C,B,c,d,d,B,A,C,b,A,a,c,d,B,C,B,a,B,C,A,C,C,d,B,d,B,d,C,B
+Student_9,6C,6,C,B,A,d,C,c,A,C,b,b,a,B,c,a,b,B,C,B,C,A,C,C,b,B,A,d,A,C,B
+Student_10,6D,6,a,a,A,d,C,B,A,b,b,c,a,a,a,B,C,a,C,a,C,b,b,C,a,a,A,d,d,a,d
+Student_11,6B,6,b,B,c,d,b,a,A,a,a,c,B,B,d,B,C,B,d,c,b,b,a,a,d,a,d,d,A,C,B
+Student_12,6C,6,C,B,c,d,C,d,d,b,a,b,a,B,c,a,b,d,b,d,d,A,b,a,d,B,d,d,b,d,c
+Student_13,6C,6,b,B,A,d,C,B,A,C,C,c,B,B,c,B,C,B,b,d,C,A,C,C,b,B,A,d,A,d,B
+Student_14,6B,6,C,B,d,b,a,d,c,C,a,b,d,c, ,a,a,c,d,B,C,b,C,a,b,B,c,c,~,b,d
+Student_15,6D,6,a,d,b,c,a,a,b,d,a,b,a,c,B,d,C,a,~,c,a,b,a,C,d,B,c,a,d,b,c
+Student_16,6B,6,b,B,A,d,C,a,c,b,a,A,B,B,c,B,a,d,b,d,C,A,a,C,d,B,A,d,b,C,c
+Student_17,6C,6,C,B,c,d,a,a,b,C,b,b,c,B,B,B,C,B,C,B, ,c,b,C,C, , , , , , 
+Student_18,6D,6,d,B,A,d,C,B,A,C,C,d,a,a,a,B,C,B,d,B,d,d,C,a,b,B,A,B,d,d,B
+Student_19,6B,6,b,d,c,b,a,d,b,d,C,b,c,a,d,B,a,d,a,c,b,d,C,C,a,c,b,a,c,b,a
+Student_20,6A,6,C,B,A,b,d,a,c,b,a,d,c,B,c,d,d,B,a,a,C,d,d,b,C,c,b,B,A,a,c
+Student_21,6D,6,C,B,b,d,a,c,A,a,b,b,c,a,B,B,C,a,b,c,d,c,a,a,d,B,A,B,b,C,c
+Student_22,6D,6,C,B,A,d,C,B, ,C,C,b,B,B,B, ,C,B, ,B, , , , , , ,A, , ,d,d
+Student_23,6C,6,C,B,A,d,C,B,A,~,C,A,c,B,c,a, , , , , , , , , , , , , , , 
+Student_24,6D,6,a,d,A,A,C,B,A,C,a,b,B,B,c,c,C,B,C,a,C,b,C,b,d,B,d,B,A,d,d
+Student_25,6B,6,C,B,A,d,a,a,A,C,b,d,a,a,B,a,b,c,a,B,C,A, ,b,d,B,d,B,d,a,d
+Student_26,6A,6,C,B,A,d,C,B,b,a,C,b,c,B,a,B,C,B,C,d,C,A,C,b,d,a,A,d,b,d,c
+Student_27,6A,6,C,B,A,d,C,B,c,a,b,b,a,B,a,c,C,a,d,B,C,A,C,C,b,a,d,B,b,d,B
+Student_28,6A,6,C,B,c,d,d,a,d,a,a,A,c,d,a,B,C,B,b,a,C,A,b,C,d,B,A,d,A,C,a
+Student_29,6A,6,C,a,A,d,C,a,b,C,C,A,B,B,B,B,C,B,d,B,C,A,C,b,b,B,d,B,d,d,B
+Student_30,6C,6,C,B,c,d,C,a,A,C,C,A,a,a,B,B,C,a,d,B,d,b,C,C,d,a,A,B,b,d,c
+Student_31,6A,6,C,B,d,c,a,c,b,C,a,d,B,c,a,B,d,B,d,B,C,c,a,C,b,B,d,a,c,a,B
+Student_32,6D,6,C,B,A,d,C,B,A,b,a,A,B,B,a,B,C,B,C,a,C,A,C,C,d,a,A,B,A,C,c
+Student_33,6D,6,C,B,b,c,d,B,c,a,C,d,c,c,B,d,b,d,b,c,b,d,a,C,a,d,c,B,d,C,c
+Student_34,6B,6,C,B,A,d,C,B,A,C,a,d,B,B,c,B,C,d,a,d,C,A,C,C,d,a,d,B,c,d,c
+Student_35,6B,6,C,B,A,d,d,B,A,b,a,A,a,c,d,B,a,B,C,B,d,b,C,a,b,B,d,B,b,C,B
+Student_36,6B,6,d,B,A,c,b,a,A,C,C,d,c,a,d,B,a,B,d,B,a,c,a,b,d,B,A,c,d,C,B
+Student_37,6B,6,b,a,d,c,b,a,b,C,b,d,a,c,B,c,a,d,C,a,b,c,b,a,b,d,c,a,b,d,c
+Student_38,6B,6,b,B,b,d,a,a,c,b,a,A,d,c,a,B,a,d,d, ,b,b, ,C,a,d,A,d,b,C,a
+Student_39,6B,6,C,B,c,A,C,d,b,C,a,d,B,a,c,B,C,a,d,B,C, ,C,b, ,~,c,d,b,a,a
+Student_40,6A,6,a,B,A,d,b,a,b,b,C,A,B,B,d,a,C,B,d,a,C,A,C,b,d,d,A,B,A,C,d
+Student_41,6D,6,a,B,A,d,C,c,b,b,C,A,B,d,a,B,a,B,a,d,a,A,b,C,b,d,b,B,c,C,B
+Student_42,6B,6,b,a,c,b,a,B,A,C,b,b,c,d,c,B,b,a,C,a,b,A,C,a,C,B,A,B,A,C,B
+Student_43,6A,6,b,c,d,b,b,B,A,C,a,A,c,B, , ,C, ,d,a,C,d, , ,d,B, ,B,c, , 
+Student_44,6C,6,b,d,A,b,C,a,b,d,C,b,a,a,a,B,C,d,d,d,b,c,a,b,C,a,A,d,d,d,d
+Student_45,6C,6,a,B,d,d,d,B,b,C,b,A,B,a,a,B,C,a,a,a,C,A,b,C,d,d,d,d,c,C,c
+Student_46,6B,6,C,B,A,d,C,B,A,b,C,A,B,c,B,B,C,c,a,d,C,A,C,C,b,a,b,d,A,d,c
+Student_47,6A,6,C,B,A,d,C,B,A,C,a,A,B,B,c,c,C,B,C,d,C,A,C,C,C,B,A,B,A,C,B
+Student_48,6A,6, ,d, ,c, ,d, , ,a, , ,d, , , ,c,d, , , , ,d, , , , , , , 
+Student_49,6A,6,a,d,d,b,d,a,b,C,d,c,B,a,c,B,C,d,a,B,C,b,C,d,b,B,b,d,b,d,B
+Student_50,6B,6,C,a,A,d,C,c,A,C,b,~,B,B,a,B,C,B,a,B,C,A,C,C,d,B,d,d,b,d,B
+Student_51,6A,6,a,B,A,d,C,B,A,C,C,A,B,B,a,B,C,d,a,B,C,A,C,C,C,B,A,B,A,C,B
+Student_52,6B,6,d,B,A,d,C,a,b,C,C,c,a,B,a,c,C,c,b,d,C,A,C,C,C,c,A,B,c,C,c
+Student_53,6D,6,C,B,b,d,b,B,A,a,a,b,c,d,d,c,a,B,b,a,C,d,b, ,a,B,A, ,b,d,c
+Student_54,6D,6,C,B,b,A,C,c,c,b,b,A,B,a,a,B,C,B,a,a,C,b,d,a,C,B,A,B,b,d,d
+Student_55,6C,6,b,a,A,d,C,B,A,b,a,A,a,B,B,B,C,B,d,a,C,c,C,C,b,B,A,B,b,C,B
+Student_56,6D,6,b,B,A,c,C,B,A,a,C,A,B,a,a,B,b,c,b,a,C,A,C,C,d,B,A,B,b,C,B
+Student_57,6B,6,d,B,A,A,C,a,d,C,a,c,a,d,B,c,a,c,b,d,b,A,C,b,a,d,b,c,A,a,c
+Student_58,6C,6,b,a,c,b,C,B,b,b,~,d,B, ,a,a,d,B,b, , ,A, ,b,b,c, ,B,A,b, 
+Student_59,6C,6,C,B,A,d,d,a,c,b,C,d,d,c,B,c,a,B,C,B,d,A,C,C,d,B,A,d,b,C,B
+Student_60,6C,6,d,B,A,b,C,a,A,b,C,d,B,B,a,B,a,c,b,c,a,b,C,b,C,a,A,d,A,d,B
+Student_61,6A,6,a,B,A,d,C,B,A,b,C,A,B,B,c,B,C,B,C,B,C,A,C,C,C,a,A,B,b,C,d
+Student_62,6B,6,a,a,c,d,C,B,c,b,a,c,B,B,d,a,C,B,d,a,a,c,b,d,d,B,A,d,b,C,B
+Student_63,6D,6,C,B,d,d,b,a,A,C,a,c,d,a,B,c,a,B,a,a,C,d,C,b,d,B,A,d,b,C,B
+Student_64,6A,6,C,B,A,b,d,d,b,C,a,b,c,a,B,c,C,d,a,B,a,b,b,d,d,B,A,c,b,C,c
+Student_65,6B,6,C,B,c,A,d,B,b,C,a,d,c,B,c,d,a,B,b,a,C,b,b,b,d,c,b,c,b,d,c
+Student_66,6D,6,C,B,A,d,C,a,A,b,b,A,a,a,B,c,a,d,a,c,C,A, , , , , , , , ,c
+Student_67,6C,6,a,B,A,d,C,a,A,C,C,c,a,a,B,B,C,B,a,a,C,b,C,C,d,B,A,d,b,C,B
+Student_68,6A,6,a,a,A,c,d,a,c, ,b, ,a, ,c,B,b,d, ,c,C,A,b,a,C,d,d,B, ,C,c
+Student_69,6B,6,b,B,A,b,C,a,b,b,C,b,c,B,c,a,C,d,b,c,a,c,d,a,b,c,A,c,b,C,c
+Student_70,6B,6,d,B,A,d,b,B,A,C,b,d,a,a,d,B,C,B,C,d,a,b,C,C,C,a,b,B,A,C,B
+Student_71,6A,6,C,a,A,d,d,a,A,b,C,b,a,B,a,c,a,B,C,a,a,d,C,b,C,B,A,B,d,b,c
+Student_72,6D,6,C,B,b,d,b,c,b,b,C,b,c,c,B,B,C,d,a,d,C,A,C,C,C,a,d,d,b,d,B
+Student_73,6C,6,C,B,d,b,a,B,c,b,d,A,c,B,d,a,d,B,b,c,b,d,b,C,C,B,A,d,c,b,d
+Student_74,6B,6,C,B, ,c,b, , ,b,b,b,B,B,a,B,b,c,b,c,b,b,b,b,b,B,b,d,d,b,a
+Student_75,6A,6,C,B,A,d,d,a,c,C,C,A,d,d,a,B,C,B,a,B,a,d,C,C,d,d,c,d,b,C,c
+Student_76,6D,6,C,B,A,d,C,a,A,C,C,A,B,B,a,c,C,B,C,d,C,A,b,a,d,c,c,a,d,b,c
+Student_77,6B,6,a,B,A,d,C,a,A,b,a,A,B,B,d,c,C,B,a,B,a,A,C,C,d,a,d,B,c,C,B
+Student_78,6C,6,C,B,d,c,b,a,c,C,b,d,a,d,c,B,C,a,b,d,C,b,a,a,C,B,A,B,d,C,a
+Student_79,6D,6,C,B,A,d,C,B,A,C,C,A,B,B,a,B,C,B,C,d,C,A,C,C,C,a,A,B,A,C,B
+Student_80,6B,6,b,c,b,d,b,c,c,b,d,A,B,d,c,B,d,B,a,d,b,A,d,a,d,B,c,a,d,C,d
+Student_81,6B,6,C,B,A,d,a,a,c,a,a,c,a,B,c,a,b,c,b,a,d,b,a,b,b,B,A,B,b,d,c
+Student_82,6B,6,C,B,A,d,C,a,A,b,a,c,B,d,a,c,a,d,b,d,a,c,C,a,b,d,d,c,b,a,d
+Student_83,6B,6,C,B,A,b,C,B,A,C,C,A,a,B,c,B,C,d,a,d,C,A,C,C,d,B,d,B,A,d,c
+Student_84,6A,6,a,B,c,b,C,d,c,a,b,c,B,a,d,c,b,c,d,B,a,c,b,a,d,B,c,a,c,b,d
+Student_85,6C,6,b,a,A,d,C,B,A,b,C,b,c,B,d,B,C,B,d,a,b,b,C,a,d,B, ,c,b, ,B
+Student_86,6C,6,a,B,b,d,a,c,b,C,a,b,c,a,c,a,b,B,d,B,a,b,a,a,d,B,d,B,b,d,c
+Student_87,6D,6,C,B,c,c,b,c,b,C,b,A,c,a,a,a,d,d,C,a,b,d,b, ,C,d,d,B,c,b,d
+Student_88,6C,6,d,d,A,b,d,B,c,C,a,c,B,B,a,a,a,B,C,d,C,A,C,C,b,a,A,d,c,d,B
+Student_89,6A,6,d,B,c,b,d,a,A,d,C,A,B,a,B,a,C,B,C,a,C,d,b, ,d,B,A,B,A, ,a
+Student_90,6D,6,C,B,A,d,b,B,A,b,C,d,B,B,B,B,C,B,C,B,C,b,C,C,b,a,A,B,b,d,c
+Student_91,6A,6,C,B,A,d,C,B,A,b,b,A,c,B,c,c,C,B,C,B,C,A,C,C,d,d,A,d,A,d,B
+Student_92,6A,6,b,B,A,b,d,B,c,C,b,b,c,a,B,c,C,B,a,~,C,b,C,b,~,c,A,c,b,a,B
+Student_93,6C,6,b,c,A,c,b,c,b,C,b,c,a,d,B,c,b,d,b,B,C,A,d,b,a,c,b,c,b, , 
+Student_94,6D,6,C,B,c,c,b,d,A,C,C,d,a,c,d,d,d,B,a,B,C,c,d,C,C,d,A,a,b,b,d
+Student_95,6D,6,b,B,A,d,a,a,c,C,b,A, , , , , , , , , , , , , , , , , , , 
+Student_96,6A,6,a,B,A,d, , , , , ,c,B,a, , , ,d,d, , , ,b, , ,B, , , , , 
+Student_97,6B,6,b,B,A,d,C,B,A,C,b,A,c,c,B,B,C,B,d,B,C,A,C,C,b,B,d,B,b,d,d
+Student_98,6A,6,C,a,c,d,a,c,b,C,a,d,B,c,d,a, ,a,C,a,d,c,a,C,d,a,d,c,A,a,c
+Student_99,6D,6,C,B,A,d,C,B,A,C,C,d,~,B,c,B,C,d,d,B, ,A,C,C,C,B,d,B,d,a,c
+Student_100,6D,6,d,B,c,b,a,B,b,C,b,b,c,d,c,B,a,a,b,B,d,b,C,b,a,d,b, ,c,a,c
+Student_101,6C,6, , ,A,d,d,B,A,b, , , ,d,d,a, , ,a,d,C,c,a,b, , , , , , , 
+Student_102,6D,6,C,d,A,b,C,d,c,b,b,A,a,B,c,a,b,B,a,c, ,b,C,a,a, ,d, ,A,C,B
+Student_103,6A,6,C,B,A,d,C,a,b,b,C,A,a,d,c,a,d,d,C,a,b,d,C,C,a,B,d,B,c,C,B
+Student_104,6A,6,C,B,A,d,b,B,A,C,C,b,a,a,B,B,a,d,b,a,b,A,C,C,C,B,d,B, ,d,B
