@@ -1,3 +1,3 @@
 # Small_Projects
 
-Homework Assignments for Design/Analysis Algorithms
+Homework Assignments/In Class code for Design/Analysis Algorithms
