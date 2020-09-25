@@ -1,0 +1,6 @@
+2a.O(n(n+m))
+2b.x is node in S and y is a node in T
+   Check to see if the flag values of x and y are equal
+   if they are different return True
+   let BFS finish and if no edge has two different end point flag values
+   then return False
